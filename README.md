@@ -26,9 +26,9 @@
   <a href="https://www.linkedin.com/in/mariana-b-0b7b50100/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://twitter.com/souzzadev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
     
-    ![Snake animation](https://github.com/Souzzadev/Souzzadev/blob/output/github-contribution-grid-snake.svg)
+    
  
   </div>
-
+![Snake animation](https://github.com/Souzzadev/Souzzadev/blob/output/github-contribution-grid-snake.svg)
   [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Souzzadev&repo=Souzzadev&theme=react)](https://github.com/Souzzadev/Souzzadev)
   
