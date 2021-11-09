@@ -29,6 +29,6 @@
     
  
   </div>
-![Snake animation](https://github.com/Souzzadev/Souzzadev/blob/output/github-contribution-grid-snake.svg)
+
   [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Souzzadev&repo=Souzzadev&theme=react)](https://github.com/Souzzadev/Souzzadev)
   
