@@ -32,5 +32,5 @@
  
   </div>
 
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Souzzadev&repo=Souzzadev&theme=react)](https://github.com/Souzzadev/Souzzadev)
+ 
   
