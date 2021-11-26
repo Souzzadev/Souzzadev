@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Mariana Souza
 
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Javascript
+
+- 🌱 Estudando programação
 - 🎓 Estudante de ADS
 
 <div align="center">
