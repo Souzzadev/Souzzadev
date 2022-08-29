@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Mariana Souza
 
 
-- 💻 Desenvolvedora Full Stack Junior
+- 💻 Desenvolvedora Front-end Junior
 - 🌱 Estudando programação
 - 🎓 Estudante de ADS
 
