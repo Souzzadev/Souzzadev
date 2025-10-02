@@ -155,9 +155,6 @@ My name is **Mariana Barbosa de Souza**, I’m **27 years old**, and I’m from 
 <br/>
 
 
-### 🐍 Snake eating my contributions
-![Snake animation](https://github.com/Souzzadev/Souzzadev/blob/output/snake.svg)
-
 
 
 
