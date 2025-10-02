@@ -1,5 +1,7 @@
 # ✨ Mariana Souza
 
+**`Desenvolvedora FullStack`**
+
 ##  About Me
 My name is **Mariana Barbosa de Souza**, I’m **27 years old**, and I’m from **São Paulo, Brazil**. I graduated in **Systems Analysis and Development** at **ÚniÍtalo University** and I’m currently a student at **Next Education One**, powered by **Oracle**, in the **Developer training program**. I embrace challenges in technology as opportunities to grow, innovate, and inspire others along the journey. I also create tech content on Instagram 👉 [souzza](https://www.instagram.com/souzza). My main interests are **Front-end and Back-end development**, **web technologies**, and **programming best practices**, while I’m currently learning **Object-Oriented Programming (OOP)**, **Agile Project Management**, **JavaScript**, **Java**, and improving my skills with **Git and GitHub**.
 
@@ -153,10 +155,5 @@ My name is **Mariana Barbosa de Souza**, I’m **27 years old**, and I’m from 
 
 <br/>
 <br/>
-
-## 🐍 Snake com GitHub Actions
-![Snake animation](https://Souzzadev.github.io/snake-github/snake.svg)
-
-
 
 
