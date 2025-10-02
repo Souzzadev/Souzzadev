@@ -154,6 +154,8 @@ My name is **Mariana Barbosa de Souza**, I’m **27 years old**, and I’m from 
 <br/>
 <br/>
 
+## 🐍 Snake com GitHub Actions
+![Snake animation](https://Souzzadev.github.io/snake-github/snake.svg)
 
 
 
